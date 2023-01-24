@@ -12,18 +12,24 @@
     
 }
 .dots{
-    display: block;
+    width:500px;
+    display: inline;
+    margin: auto;
+    
     
 }
-/* .name, .location{
+.name, .location{
     display: block;
-    float:right;
-} */
+    margin-left: 20px;
+    
+}
 .heart ,.plane{
-    margin: 15px;
+    margin-left: 20px;
 }
 .likes{
     display: block;
+    margin: 20px 20px;
+
     
 }
 .data{
